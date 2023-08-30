@@ -20,3 +20,13 @@ Repository with the classes from the [Python Data Analysis Visualization](https:
 - df.describe()
 - df.describe(include=['object']) 
 ##### [code](https://github.com/ynaraoliveira/DA_Python_Data-Analysis/blob/main/02_Basic_Dataframe_Analysis_.ipynb)
+
+## 3 - Columns and series basics
+#### skills:
+- unique()
+- nunique()
+- nlargest()
+- nsmallest()
+- value_counts()
+- plot()
+##### [code](https://github.com/ynaraoliveira/DA_Python_Data-Analysis/blob/main/03_Columns_And_Series_Basics_.ipynb)
