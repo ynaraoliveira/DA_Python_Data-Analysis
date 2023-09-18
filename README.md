@@ -30,3 +30,11 @@ Repository with the classes from the [Python Data Analysis Visualization](https:
 - value_counts()
 - plot()
 ##### [code](https://github.com/ynaraoliveira/DA_Python_Data-Analysis/blob/main/03_Columns_And_Series_Basics_.ipynb)
+
+## 4 - Indexing and sorting
+#### skills:
+- sort_values()
+- sort_index()
+- loc
+- iloc
+##### [code](https://github.com/ynaraoliveira/DA_Python_Data-Analysis/blob/main/04_Indexing_And_Sorting_.ipynb)
