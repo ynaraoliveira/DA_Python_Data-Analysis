@@ -38,3 +38,13 @@ Repository with the classes from the [Python Data Analysis Visualization](https:
 - loc
 - iloc
 ##### [code](https://github.com/ynaraoliveira/DA_Python_Data-Analysis/blob/main/04_Indexing_And_Sorting_.ipynb)
+
+## 5 - Filtering dataframes
+#### skills:
+- comparison operators: ==, >, <, >=, <=
+- combinig operators: &, |
+- negation: ~
+- isin()
+- isna()
+- notna()
+##### [code](https://github.com/ynaraoliveira/DA_Python_Data-Analysis/blob/main/05_Filtering_Data_.ipynb)
