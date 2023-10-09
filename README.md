@@ -48,3 +48,9 @@ Repository with the classes from the [Python Data Analysis Visualization](https:
 - isna()
 - notna()
 ##### [code](https://github.com/ynaraoliveira/DA_Python_Data-Analysis/blob/main/05_Filtering_Data_.ipynb)
+
+## 6 - Modifying dataframes
+#### skills:
+- insert
+- drop
+##### [code](https://github.com/ynaraoliveira/DA_Python_Data-Analysis/blob/main/06_Modifying_Dataframes_.ipynb)
