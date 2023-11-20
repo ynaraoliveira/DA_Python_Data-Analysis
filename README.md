@@ -54,3 +54,10 @@ Repository with the classes from the [Python Data Analysis Visualization](https:
 - insert
 - drop
 ##### [code](https://github.com/ynaraoliveira/DA_Python_Data-Analysis/blob/main/06_Modifying_Dataframes_.ipynb)
+
+## 7 - Updating values
+#### skills:
+- rename
+- replace
+- loc
+##### [code](https://github.com/ynaraoliveira/DA_Python_Data-Analysis/blob/main/07_Updating_Data_.ipynb)
